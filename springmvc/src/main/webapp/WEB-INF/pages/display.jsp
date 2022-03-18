@@ -12,9 +12,9 @@
 	<h1>${title }</h1>
 	<p>${subtitle }</p>
 	<hr>
-	<h1>User Name is ${user.username } </h1>
-	<h1>User Password is ${user.password } </h1>
-	<h1>User email is ${user.email } </h1>
+	<h1>Your Name is ${user.username } </h1>
+	<h1>Your Password is ${user.password } </h1>
+	<h1>Your email is ${user.email } </h1>
 
 	
 </body>
